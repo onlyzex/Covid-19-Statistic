@@ -1,7 +1,7 @@
 
 # Live Statistic of Covid-19
 
-#Usage $ pkg install python2 $ git clone https://github.com/zeexind/covid-19 $ cd covid-19 $ python2 covid19.py
+#Usage $ pkg install python2 $ git clone https://github.com/onlyzex/covid-19 $ cd covid-19 $ python2 covid.py
 
 Thanks..
 
